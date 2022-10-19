@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Management_System_02", "Student_Management_System_02\Student_Management_System_02.csproj", "{3250EEE7-A384-4A68-BE54-6D2FEB52173A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3250EEE7-A384-4A68-BE54-6D2FEB52173A}.Debug|x86.ActiveCfg = Debug|x86
+		{3250EEE7-A384-4A68-BE54-6D2FEB52173A}.Debug|x86.Build.0 = Debug|x86
+		{3250EEE7-A384-4A68-BE54-6D2FEB52173A}.Release|x86.ActiveCfg = Release|x86
+		{3250EEE7-A384-4A68-BE54-6D2FEB52173A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
