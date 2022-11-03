@@ -50,7 +50,7 @@
             // 
             this.lbl_Add_New_Student.AutoSize = true;
             this.lbl_Add_New_Student.Font = new System.Drawing.Font("Times New Roman", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_Add_New_Student.Location = new System.Drawing.Point(281, 64);
+            this.lbl_Add_New_Student.Location = new System.Drawing.Point(277, 42);
             this.lbl_Add_New_Student.Name = "lbl_Add_New_Student";
             this.lbl_Add_New_Student.Size = new System.Drawing.Size(405, 57);
             this.lbl_Add_New_Student.TabIndex = 0;
@@ -225,6 +225,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(1082, 713);
+            this.ControlBox = false;
             this.Controls.Add(this.lbl_Username);
             this.Controls.Add(this.btn_View_Student_List);
             this.Controls.Add(this.btn_Search_Student_List);

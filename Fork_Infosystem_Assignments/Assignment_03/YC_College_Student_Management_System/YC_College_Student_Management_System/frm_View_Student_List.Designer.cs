@@ -214,6 +214,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(1082, 713);
+            this.ControlBox = false;
             this.Controls.Add(this.lbl_Username);
             this.Controls.Add(this.dgv_View_Student_List);
             this.Controls.Add(this.btn_Logout);
